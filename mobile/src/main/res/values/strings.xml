@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">githubers</string>
+    <string name="users_title">Githubers</string>
+    <string name="username">Username:</string>
+    <string name="url">Url:</string>
+    <string name="loading_failed">Loading failed. Try again later</string>
+
+</resources>
